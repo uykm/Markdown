@@ -1,3 +1,3 @@
 # TIL
 
-[Git Tutorial](https://github.com/UykM/TIL/blob/main/Git-Tutorial)
+[Git Tutorial](https://github.com/UykM/TIL/blob/main/Git-Tutorial.md)

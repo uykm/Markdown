@@ -13,7 +13,7 @@ int main(void) {
 
 링크는 다음과 같이 작성할 수 있습니다.
 
-[Github 포트폴리오 참고](https://velog.io/@productuidev/%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0-7-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-GitHub)
+[Github 포트폴리오 참고](https://velog.io/@productuidev/%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0-7-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-GitHub) 
 
 [Github TIL 작성법 참고](https://doing7.tistory.com/4)
 

@@ -17,6 +17,7 @@ int main(void) {
 [Github TIL 작성법 참고](https://doing7.tistory.com/4)
 [Github 블로그 만들기 참고 영상](https://www.youtube.com/watch?v=ACzFIAOsfpM&t=23s)
 [내 티스토리 블로그](https://ukym-tistory.tistory.com/manage/posts)
+[마크다운 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601#this-is-a-h3)
 
 
 순서 없는 목록은 다음과 같이 작성할 수 있습니다.
